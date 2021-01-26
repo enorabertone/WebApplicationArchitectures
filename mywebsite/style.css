@@ -1,0 +1,44 @@
+body{
+  margin:10px 50px;
+  max-width: : 100%;
+  color: #FFFFFF;/*White*/
+  background-color: #006400; /*DarkGreen*/
+}
+
+h1{
+  text-align: center;
+  font: 2em "Trebuchet MS", helvetica, sans-serif;
+  margin-top: 10px;
+  height: 50px;
+}
+
+h2{
+  text-align: left;
+  text-decoration: underline;
+  font: 1em "Trebuchet MS", helvetica, sans-serif;
+}
+
+
+ul.navbar{
+  padding:10px;
+  float:left;
+  list-style-type: none;
+  margin-bottom:10px;
+  color:FF8C00; /*DarkOrange*/
+}
+
+
+
+li{
+  text-align: left;
+  
+}
+
+footer
+{
+	margin: 0;
+	padding-right: 10 px;
+	line-height: 30 px;
+	text-align: right;
+	color: #8a0;
+}
